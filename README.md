@@ -79,6 +79,8 @@ print("Standard deviation =", round(sd,3))
 
 
 # Output : 
+<img width="1039" height="331" alt="image" src="https://github.com/user-attachments/assets/13fad081-c964-4d2e-868c-8973b343a938" />
+
 
 
 # Results :
